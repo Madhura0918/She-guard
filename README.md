@@ -20,7 +20,7 @@ Backend: Firebase Authentication, Firebase Realtime Database
 Other: Google Maps API (if used for location sharing)
 
 📂 Project Setup
-Clone the repo:
+Clone the repo:https://github.com/Madhura0918/She-guard.git
 Open in Android Studio.
 Configure Firebase with your project.
 Build & Run on your emulator or Android device.
